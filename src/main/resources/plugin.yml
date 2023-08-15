@@ -1,0 +1,4 @@
+name: CustomCropsPlugin
+version: '${project.version}'
+main: customcropsplugin.customcropsplugin.CustomCropsPlugin
+api-version: 1.19
